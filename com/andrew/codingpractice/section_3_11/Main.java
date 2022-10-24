@@ -1,4 +1,4 @@
-package com.andrew.codingpractice.section03.section3_11;
+package com.andrew.codingpractice.section_3_11;
 
 import java.util.Scanner;
 
