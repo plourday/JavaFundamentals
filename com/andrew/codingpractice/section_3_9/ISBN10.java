@@ -1,4 +1,4 @@
-package section3_3_9;
+package com.andrew.codingpractice.section_3_9;
 import java.util.Scanner;
 
 public class ISBN10 {
