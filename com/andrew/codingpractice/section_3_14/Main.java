@@ -8,14 +8,13 @@ public class Main
 	// Program that lets a user guess whether the flip of a coin is heads or tails.
 	public static void main(String[] args)
 	{
-
 		int guess = -1;
 		int answer = -1;
 
 		Random random = new Random();
 
 		answer = random.nextInt(2);
-		System.out.println(answer);
+
 		System.out.println("Heads or tails? (0 = Heads, 1 = Tails)");
 
 		try
@@ -51,5 +50,4 @@ public class Main
 		}
 		System.exit(0);
 	}
-
 }
