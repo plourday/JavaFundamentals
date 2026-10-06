@@ -42,7 +42,7 @@ public class Main
 
 		area = (5 * (Math.pow(side, 2))) / (4 * (Math.tan(Math.PI / 5)));
 
-		System.out.println("The are of the Pentagon is " + Math.round(area * 100) / 100.0);
+		System.out.println("The area of the Pentagon is " + Math.round(area * 100) / 100.0);
 		
 		System.exit(0);
 

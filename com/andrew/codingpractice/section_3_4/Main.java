@@ -10,7 +10,7 @@ public class Main
 		// Random int generation number 1 - 12
 		// corresponding month name displays with the number
 
-		double month = Math.max(1, (int) (Math.random() * 13));
+		double month = Math.max(1, (Math.random() * 13));
 
 		switch ((int) month)
 		{

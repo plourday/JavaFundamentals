@@ -62,7 +62,7 @@ public class Main
 				|| (guessDigit2 == lotteryDigit1) || (guessDigit2 == lotteryDigit2) || (guessDigit2 == lotteryDigit3)
 				|| (guessDigit3 == lotteryDigit1) || (guessDigit3 == lotteryDigit2) || (guessDigit3 == lotteryDigit3))
 		{
-			System.out.println("Matched one digit: You win %1,000!");
+			System.out.println("Matched one digit: You win $1,000!");
 		}
 		else
 		{
